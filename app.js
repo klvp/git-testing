@@ -7,3 +7,5 @@ function user({ name, age, role }) {
 }
 
 console.log(user({ name: "klvp", age: 24, role: "SDE 1" }));
+
+console.log("This is the feature 3");
